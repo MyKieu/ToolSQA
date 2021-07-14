@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Book Store" skipped="0" tests="4" time="69.41" timestamp="2021-07-14 08:57:43"><testcase name="Verify on entering data to all textfield"/><testcase name="Verify password field"/><testcase name="Verify blank textfield"/><testcase name="Successful Login with Valid Credentials then LogOut"/></testsuite>

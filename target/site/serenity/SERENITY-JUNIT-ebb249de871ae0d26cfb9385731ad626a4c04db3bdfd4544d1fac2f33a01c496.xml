@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="4" name="TextBox" skipped="0" tests="4" time="4.37" timestamp="2021-07-14 11:07:02"><testcase name="Verify on entering data to all textfield"><failure message="Undefined default URL for page object TextBoxPage" type="java.lang.AssertionError">Undefined default URL for page object TextBoxPage</failure><system-err>Undefined default URL for page object TextBoxPage&#13;
+Pages.TextBoxPage.openHomePage(TextBoxPage.java:37)&#13;
+Steps.TextBoxStepdefs.openHomePage(TextBoxStepdefs.java:20)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="Verify empty current address Textfield"><failure message="Undefined default URL for page object TextBoxPage" type="java.lang.AssertionError">Undefined default URL for page object TextBoxPage</failure><system-err>Undefined default URL for page object TextBoxPage&#13;
+Pages.TextBoxPage.openHomePage(TextBoxPage.java:37)&#13;
+Steps.TextBoxStepdefs.openHomePage(TextBoxStepdefs.java:20)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="Verify email textfield"><failure message="Undefined default URL for page object TextBoxPage" type="java.lang.AssertionError">Undefined default URL for page object TextBoxPage</failure><system-err>Undefined default URL for page object TextBoxPage&#13;
+Pages.TextBoxPage.openHomePage(TextBoxPage.java:37)&#13;
+Steps.TextBoxStepdefs.openHomePage(TextBoxStepdefs.java:20)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase><testcase name="Verify  textfield contain symbol"><failure message="Undefined default URL for page object TextBoxPage" type="java.lang.AssertionError">Undefined default URL for page object TextBoxPage</failure><system-err>Undefined default URL for page object TextBoxPage&#13;
+Pages.TextBoxPage.openHomePage(TextBoxPage.java:37)&#13;
+Steps.TextBoxStepdefs.openHomePage(TextBoxStepdefs.java:20)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"ToolsQA","Verify on entering data to all textfield","SUCCESS","2021-07-02T09:47:33.17+07:00[Asia/Bangkok]","0.0","21.05"
+"ToolsQA","Verify on empty all textfield","SUCCESS","2021-07-02T09:47:57.8+07:00[Asia/Bangkok]","0.0","15.47"
+"ToolsQA","Verify email textfield","ERROR","2021-07-02T09:48:13.915+07:00[Asia/Bangkok]","0.0","23.85"
+"ToolsQA","Verify fullName textfield","SUCCESS","2021-07-02T09:48:38.455+07:00[Asia/Bangkok]","0.0","12.59"
